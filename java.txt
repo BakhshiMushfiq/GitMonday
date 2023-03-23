@@ -1,0 +1,8 @@
+Public class practice{
+
+Public static void main (String [] args){
+
+	Public void loop(){
+	for (int i=0;i<=4;i++ ){
+	System.out.println(i);
+}
